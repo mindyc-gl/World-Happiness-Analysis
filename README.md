@@ -21,7 +21,7 @@ The Dataset contains various attributes which may affect the happiness index of 
 
 8)Perception of corruption: The level of corruption in the country in numbers
 
-9) Continent: Continent of the country
+9)Continent: Continent of the country
 (I classified each of country into its continent to analysis the happiness index for different continent of people in the world)
 
 The dataset is downloaded from: https://www.kaggle.com/unsdsn/world-happiness?select=2018.csv 
