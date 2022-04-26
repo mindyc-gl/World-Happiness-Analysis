@@ -7,8 +7,11 @@ This project is focused on analyzing what and how variables affect the happiness
 The Dataset contains various attributes which may affect the happiness index of the country, but I removed the “rank” column by R code.  Then, this data set contain the following 8 variables:
 
 1)Country or Region: Name of the country or regions in strings
+
 2)Score: Total happiness score in numbers
+
 3)GDP per capita: GDP per capita of the country in numbers
+
 4)Social support: Level of social support given to citizens in numbers
 5)Healthy life expectancy: Access to healthcare, and general health level in the country in numbers
 6)Freedom: Freedom to make individual life choices in numbers
