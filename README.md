@@ -1,4 +1,4 @@
-# World-Happiness-Analysis
+# World Happiness Analysis
 
 Happiness can be considered as a type of psychological experience. That contains a value of both the life quality and the degree of life satisfaction. It manifests as a positive psychological experience based on life satisfaction. The happiness score is the index value to measure the specific degree of life satisfaction. 
  
