@@ -1,6 +1,5 @@
-#CS555 Term Project 
-#Mincong Chen
-setwd("~/Desktop/TermProject_MincongChen ")
+
+setwd("~/Desktop ")
 
 #Packages downloading
 install.packages("todyverse")
